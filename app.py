@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import plotly.express as px
 from dash import Dash, dcc, html
@@ -41,7 +42,8 @@ app.layout = html.Div([
     dcc.Graph(figure=fig)
 ])
 
-# Ejecutar servidor local
+# Ejecutar servidor con puerto dinámico para Render
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run_server(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 10000)))
+
 
