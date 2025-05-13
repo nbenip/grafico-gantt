@@ -6,7 +6,7 @@ from dash import Dash, dcc, html
 # Cargar los datos exportados desde Power BI
 df = pd.read_csv("aplicaciones.csv")
 
-# Renombrar columnas si es necesario
+# Renombrar columnas si lo deseas
 df = df.rename(columns={
     'Producto Aplicado': 'Producto',
     'Fecha Inicio': 'Inicio',
@@ -22,7 +22,7 @@ df['Fin'] = pd.to_datetime(df['Fin'])
 app = Dash(__name__)
 app.title = "Gantt de Aplicaciones"
 
-# Crear gráfico Gantt interactivo con información adicional
+# Crear gráfico Gantt interactivo
 fig = px.timeline(
     df,
     x_start="Inicio",
@@ -35,20 +35,20 @@ fig = px.timeline(
         "Inicio",
         "Fin",
         "Estado Fenológico",
-        "Total concentración",
-        "Total superficie"
+        "Suma de Total concentración",
+        "Suma de Total superficie"
     ]
 )
 
-# Invertir eje Y para que se vea como un Gantt clásico
+# Invertir eje Y
 fig.update_yaxes(autorange="reversed")
 
-# Layout de la app
+# Layout
 app.layout = html.Div([
     html.H2("Gantt Interactivo de Aplicaciones", style={"textAlign": "center"}),
     dcc.Graph(figure=fig)
 ])
 
-# Ejecutar servidor con puerto dinámico para Render
+# Ejecutar en Render
 if __name__ == "__main__":
     app.run_server(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 10000)))
