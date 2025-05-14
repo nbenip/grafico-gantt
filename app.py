@@ -60,6 +60,15 @@ fig.update_traces(
 
 # Invertir eje Y para que se vea como Gantt clásico
 fig.update_yaxes(autorange="reversed")
+# Mostrar línea vertical donde está el cursor (fecha actual)
+fig.update_layout(
+    xaxis_showspikes=True,
+    xaxis_spikemode='across',
+    xaxis_spikesnap='cursor',
+    xaxis_spikecolor='gray',
+    xaxis_spikethickness=1
+)
+
 
 # Layout
 app.layout = html.Div([
