@@ -1,12 +1,12 @@
 import os
 import pandas as pd
 import plotly.express as px
-from dash import Dash, dcc, html
+from dash import Dash, dcc, html, Input, Output
 
-# Cargar los datos exportados desde Power BI
+# Cargar datos
 df = pd.read_csv("aplicaciones.csv")
 
-# Renombrar columnas si lo deseas
+# Renombrar columnas
 df = df.rename(columns={
     'Producto Aplicado': 'Producto',
     'Fecha Inicio': 'Inicio',
@@ -18,66 +18,49 @@ df = df.rename(columns={
 df['Inicio'] = pd.to_datetime(df['Inicio'])
 df['Fin'] = pd.to_datetime(df['Fin'])
 
-# Asegurarse de que los valores sean numéricos
-df["Suma de Total concentración"] = pd.to_numeric(df["Suma de Total concentración"], errors="coerce")
-df["Suma de Total superficie"] = pd.to_numeric(df["Suma de Total superficie"], errors="coerce")
+# Separación visual
+df['ProductoVisual'] = df['Producto'] + " (" + df['Cuartel'].astype(str) + ")"
 
-# Crear la app
+# App
 app = Dash(__name__)
 app.title = "Gantt de Aplicaciones"
 
-# Agregar columna con etiqueta única por fila para separar visualmente
-df['ProductoVisual'] = df['Producto'] + " (" + df['Cuartel'].astype(str) + ")"
-
-# Crear gráfico Gantt con separación visual
+# Gráfico Gantt
 fig = px.timeline(
     df,
     x_start="Inicio",
     x_end="Fin",
-    y="ProductoVisual",  # Esta columna asegura separación entre filas
+    y="ProductoVisual",
     color="Cuartel",
-    title="Carta Gantt de Aplicaciones"
+    title="Carta Gantt de Aplicaciones",
+    hover_data=[
+        "Cuartel", "Inicio", "Fin",
+        "Estado Fenológico", "Suma de Total concentración", "Suma de Total superficie"
+    ]
 )
-
-# Formato del hover (tooltip) con decimales
-fig.update_traces(
-    hovertemplate=
-        "Cuartel: %{customdata[0]}<br>" +
-        "Inicio: %{customdata[1]|%Y-%m-%d}<br>" +
-        "Fin: %{customdata[2]|%Y-%m-%d}<br>" +
-        "Estado Fenológico: %{customdata[3]}<br>" +
-        "Concentración: %{customdata[4]:.3f}<br>" +
-        "Superficie: %{customdata[5]:.3f}<extra></extra>",
-    customdata=df[[  # Asegura que estos campos estén en el orden correcto
-        "Cuartel",
-        "Inicio",
-        "Fin",
-        "Estado Fenológico",
-        "Suma de Total concentración",
-        "Suma de Total superficie"
-    ]]
-)
-
-# Invertir eje Y para que se vea como Gantt clásico
 fig.update_yaxes(autorange="reversed")
-# Mostrar línea vertical donde está el cursor (fecha actual)
-fig.update_layout(
-    hovermode='x unified',
-    xaxis_showspikes=True,
-    xaxis_spikemode='across',
-    xaxis_spikesnap='cursor',
-    xaxis_spikecolor='gray',
-    xaxis_spikethickness=1
-)
-
-
 
 # Layout
 app.layout = html.Div([
     html.H2("Gantt Interactivo de Aplicaciones", style={"textAlign": "center"}),
-    dcc.Graph(figure=fig)
+    dcc.Graph(id="gantt-graph", figure=fig, clear_on_unhover=True),
+    html.Div(id="hover-date", style={"textAlign": "center", "marginTop": "20px", "fontSize": "18px", "color": "gray"})
 ])
 
-# Ejecutar en Render
+# Callback para mostrar la fecha del cursor
+@app.callback(
+    Output("hover-date", "children"),
+    Input("gantt-graph", "hoverData")
+)
+def mostrar_fecha_hover(hoverData):
+    if hoverData and "points" in hoverData:
+        point = hoverData["points"][0]
+        x_val = point.get("x")
+        if x_val:
+            fecha = pd.to_datetime(x_val).strftime("%d-%m-%Y %H:%M")
+            return f"Fecha bajo el cursor: {fecha}"
+    return "Pasa el cursor sobre el gráfico para ver la fecha"
+
+# Render
 if __name__ == "__main__":
     app.run(debug=True, host='0.0.0.0', port=int(os.environ.get('PORT', 10000)))
