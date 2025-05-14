@@ -26,17 +26,20 @@ df["Suma de Total superficie"] = pd.to_numeric(df["Suma de Total superficie"], e
 app = Dash(__name__)
 app.title = "Gantt de Aplicaciones"
 
-# Crear gráfico Gantt interactivo
+# Agregar columna con etiqueta única por fila para separar visualmente
+df['ProductoVisual'] = df['Producto'] + " (" + df['Cuartel'].astype(str) + ")"
+
+# Crear gráfico Gantt con separación visual
 fig = px.timeline(
     df,
     x_start="Inicio",
     x_end="Fin",
-    y="Producto",
+    y="ProductoVisual",  # Esta columna asegura separación entre filas
     color="Cuartel",
     title="Carta Gantt de Aplicaciones"
 )
 
-# Personalizar hover con decimales
+# Formato del hover (tooltip) con decimales
 fig.update_traces(
     hovertemplate=
         "Cuartel: %{customdata[0]}<br>" +
@@ -45,7 +48,7 @@ fig.update_traces(
         "Estado Fenológico: %{customdata[3]}<br>" +
         "Concentración: %{customdata[4]:.3f}<br>" +
         "Superficie: %{customdata[5]:.3f}<extra></extra>",
-    customdata=df[[
+    customdata=df[[  # Asegura que estos campos estén en el orden correcto
         "Cuartel",
         "Inicio",
         "Fin",
@@ -55,7 +58,7 @@ fig.update_traces(
     ]]
 )
 
-# Invertir eje Y
+# Invertir eje Y para que se vea como Gantt clásico
 fig.update_yaxes(autorange="reversed")
 
 # Layout
