@@ -18,8 +18,7 @@ df = df.rename(columns={
 df['Inicio'] = pd.to_datetime(df['Inicio'])
 df['Fin'] = pd.to_datetime(df['Fin'])
 
-# Separación visual
-df['ProductoVisual'] = df['Producto']
+
 # App
 app = Dash(__name__)
 app.title = "Gantt de Aplicaciones"
@@ -29,7 +28,7 @@ fig = px.timeline(
     df,
     x_start="Inicio",
     x_end="Fin",
-    y="ProductoVisual",
+    y="Producto",
     color="Cuartel",
     title="Carta Gantt de Aplicaciones",
     hover_data=[
