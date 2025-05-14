@@ -1,0 +1,779 @@
+﻿Suma de Dosis,Producto Aplicado,Suma de Total concentración,Suma de Total superficie,Fecha Inicio,Fecha Fin,Source.Name,Estado Fenológico
+80,Agrocopper SP,0.06112000000000001,0.030560000000000004,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.44,0.08,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.01764,0.01176,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.04704,0.01176,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.026208000000000002,0.021840000000000002,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.024024,0.021840000000000002,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.096,0.032,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.03024,0.00432,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.06112000000000001,0.030560000000000004,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.44,0.08,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.01764,0.01176,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.04704,0.01176,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.026208000000000002,0.021840000000000002,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.024024,0.021840000000000002,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.096,0.032,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.224,0.064,2025-11-08 00:00:00,2025-11-13 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.039200000000000006,0.019600000000000003,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.04,0.02,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.18612,0.033839999999999995,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.07392,0.02112,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.24288,0.044160000000000005,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.5327999999999999,0.096,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.17664000000000002,0.044160000000000005,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+80,Agrocopper SP,0.24288,0.044160000000000005,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+80,Agrocopper SP,0.5327999999999999,0.096,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+80,Agrocopper SP,0.17664000000000002,0.044160000000000005,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+80,Agrocopper SP,,0.012,2026-04-15 00:00:00,2026-05-31 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Postcosecha
+80,Agrocopper SP,0.029400000000000003,0.00784,2026-04-15 00:00:00,2026-05-31 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Postcosecha
+80,Agrocopper SP,0.02352,0.00784,2026-04-15 00:00:00,2026-05-31 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Postcosecha
+80,Agrocopper SP,0.24288,0.044160000000000005,2026-04-20 00:00:00,2026-04-25 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+80,Agrocopper SP,0.5327999999999999,0.096,2026-04-20 00:00:00,2026-04-25 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+80,Agrocopper SP,0.17664000000000002,0.044160000000000005,2026-04-20 00:00:00,2026-04-25 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+80,Agrocopper SP,0.24288,0.044160000000000005,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+80,Agrocopper SP,0.5327999999999999,0.096,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+80,Agrocopper SP,0.17664000000000002,0.044160000000000005,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+80,Agrocopper SP,0.224,0.064,2026-05-03 00:00:00,2026-05-08 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postcosecha
+80,Agrocopper SP,0.039200000000000006,0.019600000000000003,2026-05-03 00:00:00,2026-05-08 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Receso Invernal
+80,Agrocopper SP,0.04,0.02,2026-05-03 00:00:00,2026-05-08 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Receso Invernal
+80,Agrocopper SP,0.07392,0.02112,2026-05-12 00:00:00,2026-05-22 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Receso Invernal
+80,Agrocopper SP,,0.033839999999999995,2026-06-01 00:00:00,2026-06-08 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Receso Invernal
+200,Alion 500sc,,0.0846,2026-08-11 00:00:00,2026-08-26 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Receso Invernal
+200,Alion 500sc,,0.11040000000000001,2026-08-11 00:00:00,2026-08-26 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Receso Invernal
+150,Amarex,0.045,0.0225,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+150,Amarex,0.055125,0.014700000000000001,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+150,Amarex,0.0441,0.014700000000000001,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+150,Amarex,0.0441,0.014700000000000001,2026-02-25 00:00:00,2026-02-28 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,fruto cuajado
+400,Aminoterra,0.9306,0.1692,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,2.664,0.48,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.9306,0.1692,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,2.664,0.48,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.9306,0.1692,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,2.664,0.48,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.9306,0.1692,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,2.664,0.48,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.9306,0.1692,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,2.664,0.48,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.9306,0.1692,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+400,Aminoterra,2.664,0.48,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Aminoterra,0.9306,0.1692,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+400,Aminoterra,2.664,0.48,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+400,Aminoterra,0.9306,0.1692,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+400,Aminoterra,2.664,0.48,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+400,Aminoterra,0.9306,0.1692,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+400,Aminoterra,0.36960000000000004,0.10560000000000001,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+400,Aminoterra,1.2144000000000001,0.22080000000000002,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+400,Aminoterra,2.664,0.48,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+400,Aminoterra,0.8832000000000001,0.22080000000000002,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+5000,Aminoterra Plus Zinc,,1.225,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+5000,Aminoterra Plus Zinc,,1.25,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+10000,Aminoterra Plus Zinc,,8,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+5000,Aminoterra Plus Zinc,,1.225,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+5000,Aminoterra Plus Zinc,,1.25,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+5000,Aminoterra Plus Zinc,,1.225,2025-12-31 00:00:00,2026-01-05 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+5000,Aminoterra Plus Zinc,,1.25,2025-12-31 00:00:00,2026-01-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+10000,Aminoterra Plus Zinc,,8,2026-01-11 00:00:00,2026-01-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+10000,Aminoterra Plus Zinc,,8,2026-01-21 00:00:00,2026-01-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+60,Antipoda 200 EC,0.02268,0.00324,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+60,Antipoda 200 EC,0.02268,0.00324,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+35,Avaunt 30 WG,0.026740000000000003,0.013370000000000002,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+35,Avaunt 30 WG,0.1925,0.035,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+35,Avaunt 30 WG,0.0077174999999999995,0.005144999999999999,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+35,Avaunt 30 WG,0.020579999999999998,0.005144999999999999,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+17,Avaunt 30 WG,0.00204,0.0008500000000000001,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+400,Azufre Foable,0.048,0.02,2025-10-20 00:00:00,2025-10-25 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+400,Azufre Foable,0.048,0.02,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+400,Azufre Foable,0.048,0.02,2026-02-05 00:00:00,2026-02-10 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Pleno Crecimiento
+38,Bifentrin 100 EC,0.013965,0.0037240000000000003,2025-11-11 00:00:00,2025-11-16 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+38,Bifentrin 100 EC,0.011172000000000001,0.0037240000000000003,2025-11-11 00:00:00,2025-11-16 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+38,Bifentrin 100 EC,0.0114,0.0057,2025-11-25 00:00:00,2025-11-30 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+150,Biocap,,0.0225,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,fruto cuajado
+150,Biocap,,0.014700000000000001,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,fruto cuajado
+150,Biocap,,0.014700000000000001,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,fruto cuajado
+150,Biocap,0.055125,0.014700000000000001,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,fruto cuajado
+150,Biocap,,0.014700000000000001,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,fruto cuajado
+150,Biocap,0.045,0.0225,2026-02-25 00:00:00,2026-02-20 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,fruto cuajado
+400,Biotron Plus,0.9306,0.1692,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.36960000000000004,0.10560000000000001,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+400,Biotron Plus,1.2144000000000001,0.22080000000000002,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+400,Biotron Plus,2.664,0.48,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.8832000000000001,0.22080000000000002,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.9306,0.1692,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.36960000000000004,0.10560000000000001,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+400,Biotron Plus,1.2144000000000001,0.22080000000000002,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+400,Biotron Plus,2.664,0.48,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.8832000000000001,0.22080000000000002,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.9306,0.1692,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.36960000000000004,0.10560000000000001,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+400,Biotron Plus,1.2144000000000001,0.22080000000000002,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+400,Biotron Plus,2.664,0.48,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+400,Biotron Plus,0.8832000000000001,0.22080000000000002,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+12,Bull (CS),0.0035999999999999995,0.0017999999999999997,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+12,Bull (CS),0.00441,0.0011760000000000002,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+12,Bull (CS),0.003528,0.0011760000000000002,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+12,Bull (CS),0.0039312,0.0032760000000000003,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+12,Bull (CS),0.0036036000000000006,0.0032760000000000003,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+12,Bull (CS),0.004200000000000001,0.0006000000000000001,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+12,Bull (CS),0.009167999999999999,0.0045839999999999995,2026-03-01 00:00:00,2026-03-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+12,Bull (CS),0.066,0.012,2026-03-01 00:00:00,2026-03-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+12,Bull (CS),0.002646,0.0017639999999999997,2026-03-01 00:00:00,2026-03-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+12,Bull (CS),0.007055999999999999,0.0017639999999999997,2026-03-01 00:00:00,2026-03-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+180,Captan 80 WP,0.054,0.027,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+180,Captan 80 WP,0.06615,0.01764,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+180,Captan 80 WP,0.05292,0.01764,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+180,Captan 80 WP,0.054,0.027,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+180,Captan 80 WP,0.06615,0.01764,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+180,Captan 80 WP,0.05292,0.01764,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+100,Cercobim,0.035,0.005,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+100,Cercobim,0.035,0.005,2025-11-30 00:00:00,2025-12-05 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+20,Colt 45 WP,0.015280000000000002,0.007640000000000001,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+20,Colt 45 WP,0.11,0.02,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+20,Colt 45 WP,0.00441,0.00294,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+20,Colt 45 WP,0.01176,0.00294,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+125,Comet,0.35,0.1,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+125,Comet,0.06125,0.030625,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+125,Comet,0.0625,0.03125,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+125,Comet,0.35,0.1,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+125,Comet,0.06125,0.030625,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+125,Comet,0.0625,0.03125,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+125,Comet,0.2908125,0.052875,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Postcosecha
+250,Comet,0.231,0.066,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Postcosecha
+500,Comet,,0.276,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+500,Comet,,0.6,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+500,Comet,,0.276,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+250,Costar,0.075,0.0375,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Floración-cuaja
+250,Costar,0.091875,0.0245,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Floración-cuaja
+250,Costar,0.0735,0.0245,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Floración-cuaja
+250,Custodia 320 SC,0.03,0.0125,2025-11-11 00:00:00,2025-11-16 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+250,Custodia 320 SC,0.03,0.0125,2026-01-09 00:00:00,2026-01-14 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+120,Diazinon 40 WP,0.036,0.018,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+120,Diazinon 40 WP,0.0441,0.01176,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+120,Diazinon 40 WP,0.03528,0.01176,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+120,Diazinon 40 WP,0.042,0.006,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+120,Diazinon 40 WP,0.144,0.048,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+6000,Diazol 50 EW,,4.8,2026-01-05 00:00:00,2026-01-10 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+6000,Diazol 50 EW,2.94,1.47,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+6000,Diazol 50 EW,3,1.5,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+2000,Eliphos,,0.1,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.8,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.1,2025-11-15 00:00:00,2025-11-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Eliphos,,0.1,2025-11-30 00:00:00,2025-12-05 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.8,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+360,Eliphos,,0.09828,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.546,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.1,2025-12-15 00:00:00,2025-12-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Eliphos,,0.196,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.764,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+2000,Eliphos,,2,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.294,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.294,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+360,Eliphos,,0.09828,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.546,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.3,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Eliphos,,0.196,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+2000,Eliphos,,0.49,2026-01-30 00:00:00,2026-02-04 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.5,2026-01-30 00:00:00,2026-02-04 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.49,2026-02-09 00:00:00,2026-02-14 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.5,2026-02-09 00:00:00,2026-02-14 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2000,Eliphos,,1.6,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.196,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,fruto cuajado
+720,Eliphos,,0.036,2026-02-20 00:00:00,2026-03-02 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Eliphos,,0.3,2026-03-01 00:00:00,2026-03-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.196,2026-03-01 00:00:00,2026-03-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.49,2026-03-11 00:00:00,2026-03-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.5,2026-03-11 00:00:00,2026-03-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.764,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+2000,Eliphos,,2,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.294,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.294,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+360,Eliphos,,0.09828,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2000,Eliphos,,0.546,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2000,Eliphos,,1.6,2026-03-31 00:00:00,2026-04-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postcosecha
+60,Entrust,0.02205,0.00588,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+60,Entrust,0.01764,0.00588,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+60,Entrust,0.018,0.009,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+60,Entrust,0.02205,0.00588,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+60,Entrust,0.018,0.009,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,fruto cuajado
+60,Entrust,0.01764,0.00588,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,fruto cuajado
+60,Ethelyn 48 SL,0.13959,0.02538,2026-03-31 00:00:00,2026-04-05 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Postcosecha
+60,Ethelyn 48 SL,0.05544,0.01584,2026-03-31 00:00:00,2026-04-05 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Postcosecha
+300,Fertum Silicium,0.09828,0.0819,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+300,Fertum Silicium,0.09009,0.0819,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+400,Fertum Silicium,0.14,0.02,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.48,0.16,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.1512,0.0216,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Fertum Silicium,0.147,0.039200000000000006,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.11760000000000001,0.039200000000000006,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.14,0.02,2025-11-30 00:00:00,2025-12-05 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.30560000000000004,0.15280000000000002,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+400,Fertum Silicium,2.2,0.4,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.08819999999999999,0.0588,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.2352,0.0588,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.13104000000000002,0.1092,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.12012000000000002,0.1092,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.12,0.06,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Desarrollo de fruto
+400,Fertum Silicium,0.147,0.039200000000000006,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,fruto cuajado
+400,Fertum Silicium,0.48,0.16,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Fertum Silicium,0.1512,0.0216,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+400,Fertum Silicium,0.11760000000000001,0.039200000000000006,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,fruto cuajado
+400,Fertum Silicium,0.30560000000000004,0.15280000000000002,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+400,Fertum Silicium,2.2,0.4,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.08819999999999999,0.0588,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.2352,0.0588,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.48,0.16,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.1512,0.0216,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.196,0.098,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.2,0.1,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.12,0.06,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,fruto cuajado
+400,Fertum Silicium,0.147,0.039200000000000006,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.14,0.02,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,1.12,0.32,2026-01-31 00:00:00,2026-02-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.30560000000000004,0.15280000000000002,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+400,Fertum Silicium,2.2,0.4,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.08819999999999999,0.0588,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.2352,0.0588,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.12,0.06,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+400,Fertum Silicium,0.11760000000000001,0.039200000000000006,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+240,Fungizeb 800 WP,0.55836,0.10152,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+240,Fungizeb 800 WP,0.22176,0.06336,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+240,Fungizeb 800 WP,0.7286400000000001,0.13248000000000001,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+240,Fungizeb 800 WP,1.5983999999999998,0.288,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+240,Fungizeb 800 WP,0.5299200000000001,0.13248000000000001,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+240,Fungizeb 800 WP,0.55836,0.10152,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Postcosecha
+480,Fungizeb 800 WP,0.44352,0.12672,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Postcosecha
+240,Fungizeb 800 WP,0.7286400000000001,0.13248000000000001,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+240,Fungizeb 800 WP,1.5983999999999998,0.288,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+240,Fungizeb 800 WP,0.5299200000000001,0.13248000000000001,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+15,Hurricane 70 WP,0.018,0.006,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+300,Imidan 70 WP,0.84,0.24,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.22920000000000001,0.11460000000000001,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,1.65,0.3,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.06614999999999999,0.04409999999999999,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.17639999999999997,0.04409999999999999,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.147,0.0735,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.15,0.075,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+130,Imidan 70 WP,0.015600000000000001,0.0065,2025-11-11 00:00:00,2025-11-16 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.105,0.015,2025-11-15 00:00:00,2025-11-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.105,0.015,2025-11-30 00:00:00,2025-12-05 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+300,Imidan 70 WP,0.147,0.0735,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.15,0.075,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.84,0.24,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+300,Imidan 70 WP,0.22920000000000001,0.11460000000000001,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+300,Imidan 70 WP,1.65,0.3,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+300,Imidan 70 WP,0.06614999999999999,0.04409999999999999,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+300,Imidan 70 WP,0.17639999999999997,0.04409999999999999,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+100,Indar 2 F,0.28,0.08,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+100,Indar 2 F,0.049,0.0245,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+100,Indar 2 F,0.05,0.025,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Indar 2 F,0.049,0.0245,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Postcosecha
+100,Indar 2 F,0.05,0.025,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Postcosecha
+100,Indar 2 F,0.28,0.08,2026-04-10 00:00:00,2026-04-15 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postcosecha
+20,Karate Zeon,0.024,0.008,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+20,Karate Zeon,0.04653,0.008459999999999999,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+20,Karate Zeon,0.01848,0.00528,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+20,Karate Zeon,0.06072,0.011040000000000001,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+20,Karate Zeon,0.13319999999999999,0.024,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+20,Karate Zeon,0.044160000000000005,0.011040000000000001,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.382,0.191,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+500,Kelpak,2.75,0.5,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.11025,0.0735,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.294,0.0735,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.1638,0.1365,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.15015,0.1365,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3,0.15,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3675,0.098,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.294,0.098,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.06,0.025,2025-10-20 00:00:00,2025-10-25 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3,0.15,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3675,0.098,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.294,0.098,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.175,0.025,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+500,Kelpak,0.06,0.025,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,2.8,0.8,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Kelpak,0.98,0.49,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+2000,Kelpak,1,0.5,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.1638,0.1365,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.15015,0.1365,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.175,0.025,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+400,Kelpak,0.48,0.16,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+1000,Kelpak,2.8,0.8,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+300,Kelpak,0.22920000000000001,0.11460000000000001,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+300,Kelpak,1.65,0.3,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+300,Kelpak,0.06614999999999999,0.04409999999999999,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+300,Kelpak,0.17639999999999997,0.04409999999999999,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.189,0.027,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+2000,Kelpak,0.98,0.49,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+2000,Kelpak,1,0.5,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3,0.15,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3675,0.098,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.294,0.098,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+1000,Kelpak,0.3,0.15,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+1000,Kelpak,0.3675,0.098,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+1000,Kelpak,0.294,0.098,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+300,Kelpak,0.36,0.12,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.382,0.191,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+500,Kelpak,2.75,0.5,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+500,Kelpak,0.11025,0.0735,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+500,Kelpak,0.294,0.0735,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.1638,0.1365,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+500,Kelpak,0.15015,0.1365,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+1000,Kelpak,0.3675,0.098,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,fruto cuajado
+500,Kelpak,0.189,0.027,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.175,0.025,2025-12-15 00:00:00,2025-12-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2000,Kelpak,0.98,0.49,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+2000,Kelpak,1,0.5,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+2000,Kelpak,0.98,0.49,2025-12-31 00:00:00,2026-01-05 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+2000,Kelpak,1,0.5,2025-12-31 00:00:00,2026-01-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+400,Kelpak,0.48,0.16,2026-01-01 00:00:00,2026-01-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+2000,Kelpak,0.98,0.49,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Kelpak,1,0.5,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+500,Kelpak,0.382,0.191,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+500,Kelpak,2.75,0.5,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+500,Kelpak,0.11025,0.0735,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+500,Kelpak,0.294,0.0735,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.1638,0.1365,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+500,Kelpak,0.15015,0.1365,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+1000,Kelpak,0.3,0.15,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+1000,Kelpak,0.294,0.098,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+500,Kelpak,0.189,0.027,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+1000,Kelpak,2.8,0.8,2026-01-11 00:00:00,2026-01-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+500,Kelpak,0.175,0.025,2026-01-20 00:00:00,2026-01-25 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,2.8,0.8,2026-01-21 00:00:00,2026-01-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Kelpak,2.8,0.8,2026-01-31 00:00:00,2026-02-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+1000,Kelpak,0.3,0.15,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+1000,Kelpak,0.3675,0.098,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+1000,Kelpak,0.294,0.098,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+500,Kelpak,0.382,0.191,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+500,Kelpak,2.75,0.5,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+500,Kelpak,0.11025,0.0735,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+500,Kelpak,0.294,0.0735,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.1638,0.1365,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+500,Kelpak,0.15015,0.1365,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+400,Kelpak,0.48,0.16,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+500,Kelpak,0.189,0.027,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+100,Mamull,0.23265,0.0423,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+100,Mamull,0.09240000000000001,0.026400000000000003,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Mamull,0.30360000000000004,0.055200000000000006,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+100,Mamull,0.666,0.12,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+100,Mamull,0.22080000000000002,0.055200000000000006,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Mamull,0.28,0.08,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+100,Mamull,0.049,0.0245,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+100,Mamull,0.05,0.025,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Mamull,0.23265,0.0423,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+100,Mamull,0.09240000000000001,0.026400000000000003,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Mamull,0.30360000000000004,0.055200000000000006,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+100,Mamull,0.666,0.12,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+100,Mamull,0.22080000000000002,0.055200000000000006,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Mamull,0.28,0.08,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+100,Mamull,0.05,0.025,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Mamull,0.23265,0.0423,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+100,Mamull,0.09240000000000001,0.026400000000000003,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Mamull,0.30360000000000004,0.055200000000000006,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+100,Mamull,0.666,0.12,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+100,Mamull,0.22080000000000002,0.055200000000000006,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Mamull,0.049,0.0245,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+100,Mamull,0.05,0.025,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Mamull,0.28,0.08,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+100,Mamull,0.28,0.08,2026-06-02 00:00:00,2026-07-31 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postpoda
+100,Mamull,0.049,0.0245,2026-06-02 00:00:00,2026-07-31 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Postpoda
+100,Mamull,0.05,0.025,2026-06-02 00:00:00,2026-07-31 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Postpoda
+100,Nacillus,0.23265,0.0423,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.09240000000000001,0.026400000000000003,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.30360000000000004,0.055200000000000006,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.666,0.12,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.22080000000000002,0.055200000000000006,2025-10-15 00:00:00,2025-10-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.28,0.08,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.049,0.0245,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.05,0.025,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.23265,0.0423,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.09240000000000001,0.026400000000000003,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.30360000000000004,0.055200000000000006,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.666,0.12,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.22080000000000002,0.055200000000000006,2025-10-30 00:00:00,2025-11-04 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.28,0.08,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.05,0.025,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.23265,0.0423,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.09240000000000001,0.026400000000000003,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.30360000000000004,0.055200000000000006,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.666,0.12,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.22080000000000002,0.055200000000000006,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.049,0.0245,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.05,0.025,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+100,Nacillus,0.28,0.08,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+6000,Nitrate Balancer,,1.47,2026-03-31 00:00:00,2026-04-05 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Postcosecha
+6000,Nitrate Balancer,,1.5,2026-03-31 00:00:00,2026-04-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Postcosecha
+6000,Nitrate Balancer,,4.8,2026-04-05 00:00:00,2026-04-10 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postcosecha
+6000,Nitrate Balancer,,1.47,2026-04-10 00:00:00,2026-04-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Postcosecha
+6000,Nitrate Balancer,,1.5,2026-04-10 00:00:00,2026-04-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Postcosecha
+6000,Nitrate Balancer,13.959,2.538,2026-04-10 00:00:00,2026-04-17 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Postcosecha
+12000,Nitrate Balancer,11.088,3.168,2026-04-10 00:00:00,2026-04-17 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Postcosecha
+6000,Nitrate Balancer,,4.8,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postcosecha
+6000,Nitrate Balancer,,1.47,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Postcosecha
+6000,Nitrate Balancer,,1.5,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Postcosecha
+6000,Nitrate Balancer,,3.3120000000000003,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+6000,Nitrate Balancer,,7.2,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+6000,Nitrate Balancer,,3.3120000000000003,2026-04-15 00:00:00,2026-04-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+6000,Nitrate Balancer,13.959,2.538,2026-04-17 00:00:00,2026-05-02 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Postcosecha
+12000,Nitrate Balancer,11.088,3.168,2026-04-17 00:00:00,2026-05-02 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Postcosecha
+6000,Nitrate Balancer,,3.3120000000000003,2026-04-20 00:00:00,2026-04-25 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+6000,Nitrate Balancer,,7.2,2026-04-20 00:00:00,2026-04-25 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+6000,Nitrate Balancer,,3.3120000000000003,2026-04-20 00:00:00,2026-04-25 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+6000,Nitrate Balancer,,4.8,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Postcosecha
+6000,Nitrate Balancer,,3.3120000000000003,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Senescencia
+6000,Nitrate Balancer,,7.2,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Senescencia
+6000,Nitrate Balancer,,3.3120000000000003,2026-04-28 00:00:00,2026-05-03 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Senescencia
+6000,Nitrate Balancer,13.959,2.538,2026-05-02 00:00:00,2026-05-09 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Postcosecha
+12000,Nitrate Balancer,11.088,3.168,2026-05-02 00:00:00,2026-05-09 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Postcosecha
+70,Nufilm-17,0.196,0.056,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.0343,0.01715,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.035,0.0175,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.196,0.056,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.0343,0.01715,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.035,0.0175,2025-10-21 00:00:00,2025-10-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.196,0.056,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.0343,0.01715,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.035,0.0175,2025-10-31 00:00:00,2025-11-05 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.196,0.056,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.0343,0.01715,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.035,0.0175,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.196,0.056,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.0343,0.01715,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.035,0.0175,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.0343,0.01715,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.035,0.0175,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+70,Nufilm-17,0.196,0.056,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+15,Permetrina 50 CE,,0.00225,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+15,Permetrina 50 CE,,0.00147,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+15,Permetrina 50 CE,,0.00147,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.1,2025-11-15 00:00:00,2025-11-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.764,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,2,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.294,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.294,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.546,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2000,Pilatus,,0.546,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2000,Pilatus,,0.8,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.108,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+2000,Pilatus,,0.49,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Pilatus,,0.5,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2000,Pilatus,,1.6,2026-01-05 00:00:00,2026-01-10 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+2000,Pilatus,,0.196,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+2000,Pilatus,,0.196,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+2000,Pilatus,,0.3,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+100,Poliben,0.03,0.015,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+100,Poliben,0.03675,0.009800000000000001,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+100,Poliben,0.029400000000000003,0.009800000000000001,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+60,Poliben 50WP,0.13959,0.02538,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+60,Poliben 50WP,0.05544,0.01584,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+60,Poliben 50WP,0.18216000000000002,0.033120000000000004,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+60,Poliben 50WP,0.39959999999999996,0.072,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+60,Poliben 50WP,0.13248000000000001,0.033120000000000004,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+5000,Polisufuro de Ca,14,4,2026-05-20 00:00:00,2026-05-30 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Receso Invernal
+5000,Polisufuro de Ca,2.45,1.225,2026-05-20 00:00:00,2026-05-30 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Receso Invernal
+5000,Polisufuro de Ca,2.5,1.25,2026-05-20 00:00:00,2026-05-30 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Receso Invernal
+5000,Polisulfuro de Calcio,,0.75,2026-06-01 00:00:00,2026-07-10 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Receso Invernal
+5000,Polisulfuro de Calcio,,0.49,2026-06-01 00:00:00,2026-07-10 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Receso Invernal
+5000,Polisulfuro de Calcio,,0.49,2026-06-01 00:00:00,2026-07-10 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Receso Invernal
+5000,Polisulfuro de Calcio,,2.7600000000000007,2026-06-02 00:00:00,2026-06-07 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno receso invernal
+5000,Polisulfuro de Calcio,,6,2026-06-02 00:00:00,2026-06-07 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno receso invernal
+5000,Polisulfuro de Calcio,,2.7600000000000007,2026-06-02 00:00:00,2026-06-07 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno receso invernal
+1500,Poly K,0.45,0.225,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+1500,Poly K,0.55125,0.147,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+1500,Poly K,0.441,0.147,2025-10-25 00:00:00,2025-10-30 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+700,Poly K,0.22932000000000002,0.19110000000000002,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+700,Poly K,0.21021000000000004,0.19110000000000002,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+400,Poly K,0.48,0.16,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+1500,Poly K,0.567,0.081,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+1000,Poly K,0.764,0.382,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+1000,Poly K,5.5,1,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Poly K,0.2205,0.147,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+1000,Poly K,0.588,0.147,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+1500,Poly K,0.55125,0.147,2025-11-25 00:00:00,2025-11-30 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Desarrollo de fruto
+1000,Poly K,0.764,0.382,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+1000,Poly K,5.5,1,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+1000,Poly K,0.2205,0.147,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+1000,Poly K,0.588,0.147,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+700,Poly K,0.22932000000000002,0.19110000000000002,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+700,Poly K,0.21021000000000004,0.19110000000000002,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+1500,Poly K,0.45,0.225,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Desarrollo de fruto
+1500,Poly K,0.441,0.147,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+1000,Poly K,1.2,0.4,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+1500,Poly K,0.567,0.081,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+1500,Poly K,0.525,0.075,2025-12-15 00:00:00,2025-12-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+1500,Poly K,0.525,0.075,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.764,0.382,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,5.5,1,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,0.2205,0.147,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,0.588,0.147,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,0.3276,0.273,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,0.3003,0.273,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.45,0.225,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.55125,0.147,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.441,0.147,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,1.2,0.4,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.567,0.081,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,4.2,1.2,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.735,0.3675,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.75,0.375,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,4.2,1.2,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.735,0.3675,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.75,0.375,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.735,0.3675,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.75,0.375,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.45,0.225,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.55125,0.147,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.441,0.147,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+1500,Poly Mg,4.2,1.2,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+1000,Poly Mg,0.764,0.382,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+1000,Poly Mg,5.5,1,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.2205,0.147,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.588,0.147,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.3276,0.273,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.3003,0.273,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+1000,Poly Mg,1.2,0.4,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.567,0.081,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.525,0.075,2025-12-15 00:00:00,2025-12-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.764,0.382,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+1000,Poly Mg,5.5,1,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.2205,0.147,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.588,0.147,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.3276,0.273,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+1000,Poly Mg,0.3003,0.273,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.45,0.225,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.55125,0.147,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.441,0.147,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+200,Poly Mg,0.24,0.08,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.567,0.081,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+1500,Poly Mg,0.525,0.075,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+1500,Poly Mg,0.525,0.075,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+200,Poly Zn,0.15280000000000002,0.07640000000000001,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Crecimiento Vegetativo
+200,Poly Zn,1.1,0.2,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Crecimiento Vegetativo
+200,Poly Zn,0.04409999999999999,0.0294,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Crecimiento Vegetativo
+200,Poly Zn,0.1176,0.0294,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Crecimiento Vegetativo
+200,Poly Zn,0.06552000000000001,0.0546,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Crecimiento Vegetativo
+200,Poly Zn,0.06006000000000001,0.0546,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Crecimiento Vegetativo
+500,Poly Zn,0.15,0.075,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Crecimiento Vegetativo
+500,Poly Zn,0.18375,0.049,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+500,Poly Zn,0.147,0.049,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Crecimiento Vegetativo
+200,Poly Zn,0.24,0.08,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+250,Poly Zn,0.0945,0.0135,2025-10-10 00:00:00,2025-10-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Crecimiento Vegetativo
+250,Poly Zn,0.7,0.2,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+250,Poly Zn,0.1225,0.06125,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+250,Poly Zn,0.125,0.0625,2025-11-10 00:00:00,2025-11-15 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+500,Poly Zn,0.15,0.075,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+500,Poly Zn,0.18375,0.049,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+500,Poly Zn,0.147,0.049,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+200,Poly Zn,0.15280000000000002,0.07640000000000001,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+200,Poly Zn,1.1,0.2,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+200,Poly Zn,0.04409999999999999,0.0294,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+200,Poly Zn,0.1176,0.0294,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+200,Poly Zn,0.06552000000000001,0.0546,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+200,Poly Zn,0.06006000000000001,0.0546,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+200,Poly Zn,0.24,0.08,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+250,Poly Zn,0.0945,0.0135,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+250,Poly Zn,0.0875,0.0125,2025-12-15 00:00:00,2025-12-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+200,Poly Zn,0.15280000000000002,0.07640000000000001,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+200,Poly Zn,1.1,0.2,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+200,Poly Zn,0.04409999999999999,0.0294,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+200,Poly Zn,0.1176,0.0294,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+200,Poly Zn,0.06552000000000001,0.0546,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+200,Poly Zn,0.06006000000000001,0.0546,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+500,Poly Zn,0.15,0.075,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+500,Poly Zn,0.18375,0.049,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+500,Poly Zn,0.147,0.049,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+50,Poly Zn,0.06,0.02,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+250,Poly Zn,0.0945,0.0135,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+250,Poly Zn,0.0875,0.0125,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Crecimiento Vegetativo
+250,Poly Zn,0.0875,0.0125,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,0.91875,0.245,2025-11-25 00:00:00,2025-11-30 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Desarrollo de fruto
+2500,Protecsol,0.735,0.245,2025-11-25 00:00:00,2025-11-30 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Desarrollo de fruto
+2500,Protecsol,5.81625,1.0575,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,2.31,0.66,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,7.590000000000001,1.3800000000000003,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,16.65,3,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,5.520000000000001,1.3800000000000003,2025-11-29 00:00:00,2025-12-04 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.75,0.375,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,1.91,0.955,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+2500,Protecsol,13.75,2.5,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,0.55125,0.3675,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+2500,Protecsol,1.47,0.3675,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.8190000000000001,0.6825,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2500,Protecsol,0.75075,0.6825,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2500,Protecsol,3,1,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.945,0.135,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,1.225,0.6125,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2500,Protecsol,1.25,0.625,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2500,Protecsol,0.875,0.125,2025-12-15 00:00:00,2025-12-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,7,2,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,5.81625,1.0575,2025-12-29 00:00:00,2026-01-03 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,2.31,0.66,2025-12-29 00:00:00,2026-01-03 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,7.590000000000001,1.3800000000000003,2025-12-29 00:00:00,2026-01-03 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,16.65,3,2025-12-29 00:00:00,2026-01-03 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,5.520000000000001,1.3800000000000003,2025-12-29 00:00:00,2026-01-03 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,1.91,0.955,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+2500,Protecsol,13.75,2.5,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,0.55125,0.3675,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+2500,Protecsol,1.47,0.3675,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.8190000000000001,0.6825,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2500,Protecsol,0.75075,0.6825,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2500,Protecsol,3,1,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+2500,Protecsol,0.945,0.135,2026-01-10 00:00:00,2026-01-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.875,0.125,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,1.225,0.6125,2026-01-20 00:00:00,2026-01-25 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2500,Protecsol,1.25,0.625,2026-01-20 00:00:00,2026-01-25 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2500,Protecsol,0.875,0.125,2026-01-20 00:00:00,2026-01-25 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,5.81625,1.0575,2026-01-29 00:00:00,2026-02-03 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,2.31,0.66,2026-01-29 00:00:00,2026-02-03 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,7.590000000000001,1.3800000000000003,2026-01-29 00:00:00,2026-02-03 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,16.65,3,2026-01-29 00:00:00,2026-02-03 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,5.520000000000001,1.3800000000000003,2026-01-29 00:00:00,2026-02-03 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.75,0.375,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,0.91875,0.245,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+2500,Protecsol,0.735,0.245,2026-02-01 00:00:00,2026-02-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+2500,Protecsol,7,2,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,1.91,0.955,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Barros Arana.xlsx,Pleno Crecimiento
+2500,Protecsol,13.75,2.5,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,0.55125,0.3675,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Cunco.xlsx,Pleno Crecimiento
+2500,Protecsol,1.47,0.3675,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Avellano_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.8190000000000001,0.6825,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Castaño_Barros Arana.xlsx,Pleno Crecimiento
+2500,Protecsol,0.75075,0.6825,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Castaño_Cunco.xlsx,Pleno Crecimiento
+2500,Protecsol,3,1,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.945,0.135,2026-02-10 00:00:00,2026-02-15 00:00:00,Aplicaciones_Olivo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,0.875,0.125,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,1.225,0.6125,2026-02-19 00:00:00,2026-02-24 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+2500,Protecsol,1.25,0.625,2026-02-19 00:00:00,2026-02-24 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+2500,Protecsol,5.81625,1.0575,2026-02-28 00:00:00,2026-03-05 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,2.31,0.66,2026-02-28 00:00:00,2026-03-05 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,6.900000000000001,1.3800000000000003,2026-02-28 00:00:00,2026-03-05 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+2500,Protecsol,6,3,2026-02-28 00:00:00,2026-03-05 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+2500,Protecsol,5.520000000000001,1.3800000000000003,2026-02-28 00:00:00,2026-03-05 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+2500,Protecsol,7,2,2026-03-11 00:00:00,2026-03-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+4000,Rango Full,,1.692,2026-05-26 00:00:00,2026-06-02 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Receso Invernal
+4000,Rango Full,,2.208,2026-05-26 00:00:00,2026-06-02 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Receso Invernal
+10000,RootFed,,5.520000000000001,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+10000,RootFed,,12,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,5.520000000000001,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+10000,RootFed,,1.5,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,0.98,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+10000,RootFed,,0.98,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+10000,RootFed,,0.5,2025-11-01 00:00:00,2025-11-06 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,8,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,8,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,0.5,2025-11-30 00:00:00,2025-12-05 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+20000,RootFed,,1.96,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Pleno Crecimiento
+10000,RootFed,,0.98,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,fruto cuajado
+10000,RootFed,,0.98,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+10000,RootFed,,8,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,5.520000000000001,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+10000,RootFed,,12,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,5.520000000000001,2025-12-10 00:00:00,2025-12-15 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+10000,RootFed,,8,2025-12-16 00:00:00,2025-12-21 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,1.5,2025-12-20 00:00:00,2025-12-25 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,5.520000000000001,2025-12-25 00:00:00,2025-12-30 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+10000,RootFed,,12,2025-12-25 00:00:00,2025-12-30 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,5.520000000000001,2025-12-25 00:00:00,2025-12-30 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+10000,RootFed,,0.98,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Frambueso_Faja Maisan.xlsx,Crecimiento Vegetativo
+10000,RootFed,,0.98,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Frambueso_Loncoche.xlsx,Pleno Crecimiento
+10000,RootFed,,1.5,2026-02-03 00:00:00,2026-02-08 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,fruto cuajado
+10000,RootFed,,5.520000000000001,2026-02-09 00:00:00,2026-02-14 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+10000,RootFed,,12,2026-02-09 00:00:00,2026-02-14 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,5.520000000000001,2026-02-09 00:00:00,2026-02-14 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+10000,RootFed,,1.5,2026-02-09 00:00:00,2026-02-14 00:00:00,Aplicaciones_Frambueso_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,0.5,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+10000,RootFed,,0.5,2026-03-15 00:00:00,2026-03-20 00:00:00,Aplicaciones_Maqui_Carillanca.xlsx,Pleno Crecimiento
+400,Shirlan 500 SC,1.12,0.32,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+400,Shirlan 500 SC,0.196,0.098,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+400,Shirlan 500 SC,0.2,0.1,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+600,Starane Xtra,,0.25379999999999997,2026-05-26 00:00:00,2026-06-02 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Receso Invernal
+600,Starane Xtra,,0.33120000000000005,2026-05-26 00:00:00,2026-06-02 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Receso Invernal
+500,Stimplex,1.16325,0.2115,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,0.462,0.132,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.5180000000000002,0.276,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,3.33,0.6,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.104,0.276,2025-10-09 00:00:00,2025-10-14 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.4,0.4,2025-10-11 00:00:00,2025-10-16 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.16325,0.2115,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,0.462,0.132,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.5180000000000002,0.276,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,3.33,0.6,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.104,0.276,2025-10-16 00:00:00,2025-10-21 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.16325,0.2115,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,0.462,0.132,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.5180000000000002,0.276,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,3.33,0.6,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.104,0.276,2025-10-26 00:00:00,2025-10-31 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.16325,0.2115,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,0.462,0.132,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.5180000000000002,0.276,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,3.33,0.6,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.104,0.276,2025-11-06 00:00:00,2025-11-11 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.16325,0.2115,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,0.462,0.132,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.5180000000000002,0.276,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,3.33,0.6,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.104,0.276,2025-11-16 00:00:00,2025-11-21 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.16325,0.2115,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,0.462,0.132,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.5180000000000002,0.276,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+500,Stimplex,3.33,0.6,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.104,0.276,2025-11-26 00:00:00,2025-12-01 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+500,Stimplex,1.16325,0.2115,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+500,Stimplex,0.462,0.132,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+500,Stimplex,1.5180000000000002,0.276,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+500,Stimplex,3.33,0.6,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+500,Stimplex,1.104,0.276,2025-12-14 00:00:00,2025-12-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+500,Stimplex,1.16325,0.2115,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+500,Stimplex,0.462,0.132,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+500,Stimplex,1.5180000000000002,0.276,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+500,Stimplex,3.33,0.6,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+500,Stimplex,1.104,0.276,2025-12-28 00:00:00,2026-01-02 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+500,Stimplex,1.16325,0.2115,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+500,Stimplex,0.462,0.132,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
+500,Stimplex,1.5180000000000002,0.276,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Pleno Crecimiento
+500,Stimplex,3.33,0.6,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Pleno Crecimiento
+500,Stimplex,1.104,0.276,2026-01-15 00:00:00,2026-01-20 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Pleno Crecimiento
+500,Stimplex,0.06,0.025,2026-02-05 00:00:00,2026-02-10 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Pleno Crecimiento
+500,Stimplex,0.06,0.025,2026-02-15 00:00:00,2026-02-20 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.42,0.12,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.0735,0.03675,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.075,0.0375,2025-11-21 00:00:00,2025-11-26 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.0735,0.03675,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.075,0.0375,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.42,0.12,2025-12-06 00:00:00,2025-12-11 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Crecimiento Vegetativo
+150,Stimulate,0.0735,0.03675,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Arandano_Faja Maisan.xlsx,Pleno Crecimiento
+150,Stimulate,0.075,0.0375,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Arandano_Loncoche.xlsx,Pleno Crecimiento
+150,Stimulate,0.42,0.12,2025-12-21 00:00:00,2025-12-26 00:00:00,Aplicaciones_Arandano_Carillanca.xlsx,Pleno Crecimiento
+60,Streptoplus,0.13959,0.02538,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Crecimiento Vegetativo
+60,Streptoplus,0.05544,0.01584,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Crecimiento Vegetativo
+60,Streptoplus,0.18216000000000002,0.033120000000000004,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Cerezo_Angol.xlsx,Crecimiento Vegetativo
+60,Streptoplus,0.39959999999999996,0.072,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Cerezo_Carillanca.xlsx,Crecimiento Vegetativo
+60,Streptoplus,0.13248000000000001,0.033120000000000004,2025-11-14 00:00:00,2025-11-19 00:00:00,Aplicaciones_Cerezo_Los Sauces.xlsx,Crecimiento Vegetativo
+70,Vertice 43 SC,0.008400000000000001,0.0035,2025-12-11 00:00:00,2025-12-16 00:00:00,Aplicaciones_Vid_Carillanca.xlsx,Crecimiento Vegetativo
+75,Vertimec 018 EC,0.09,0.03,2025-11-20 00:00:00,2025-11-25 00:00:00,Aplicaciones_Nogal_Los Sauces.xlsx,Crecimiento Vegetativo
+75,Vertimec 018 EC,0.1744875,0.031724999999999996,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Almendro_Angol.xlsx,Pleno Crecimiento
+75,Vertimec 018 EC,0.0693,0.0198,2025-12-01 00:00:00,2025-12-06 00:00:00,Aplicaciones_Almendro_Los Sauces.xlsx,Pleno Crecimiento
