@@ -55,8 +55,8 @@ def mostrar_fecha_hover(hoverData):
         point = hoverData["points"][0]
         x_val = point.get("x")
         if x_val:
-            fecha = pd.to_datetime(x_val).strftime("%d-%m-%Y %H:%M")
-            return f"Fecha bajo el cursor: {fecha}"
+            fecha = pd.to_datetime(x_val).strftime("%d-%m-%Y")
+            return f"Fecha fin labor: {fecha}"
     return "Pasa el cursor sobre el gráfico para ver la fecha"
 
 # Render
