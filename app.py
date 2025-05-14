@@ -62,12 +62,14 @@ fig.update_traces(
 fig.update_yaxes(autorange="reversed")
 # Mostrar línea vertical donde está el cursor (fecha actual)
 fig.update_layout(
+    hovermode='x unified',
     xaxis_showspikes=True,
     xaxis_spikemode='across',
     xaxis_spikesnap='cursor',
     xaxis_spikecolor='gray',
     xaxis_spikethickness=1
 )
+
 
 
 # Layout
