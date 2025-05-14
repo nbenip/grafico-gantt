@@ -40,11 +40,11 @@ fig = px.timeline(
 fig.update_traces(
     hovertemplate=
         "Cuartel: %{customdata[0]}<br>" +
-        "Inicio: %{customdata[1]|%Y-%m-%d %H:%M}<br>" +
-        "Fin: %{customdata[2]|%Y-%m-%d %H:%M}<br>" +
+        "Inicio: %{customdata[1]|%Y-%m-%d}<br>" +
+        "Fin: %{customdata[2]|%Y-%m-%d}<br>" +
         "Estado Fenológico: %{customdata[3]}<br>" +
-        "Concentración: %{customdata[4]:.2f}<br>" +
-        "Superficie: %{customdata[5]:.2f}<extra></extra>",
+        "Concentración: %{customdata[4]:.3f}<br>" +
+        "Superficie: %{customdata[5]:.3f}<extra></extra>",
     customdata=df[[
         "Cuartel",
         "Inicio",
