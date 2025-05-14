@@ -19,8 +19,7 @@ df['Inicio'] = pd.to_datetime(df['Inicio'])
 df['Fin'] = pd.to_datetime(df['Fin'])
 
 # Separación visual
-df['ProductoVisual'] = df['Producto'] + " (" + df['Cuartel'].astype(str) + ")"
-
+df['ProductoVisual'] = df['Producto']
 # App
 app = Dash(__name__)
 app.title = "Gantt de Aplicaciones"
